@@ -1,0 +1,89 @@
+.curtain-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 9999;
+  cursor: pointer;
+  background-color: #000;
+  overflow: hidden;
+  transition: opacity 0.8s ease-in-out, visibility 0.8s ease-in-out;
+}
+
+.curtain-container.fade-out {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+/* Blurred background video - fills entire screen */
+.curtain-video-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  transform: scale(1.2); /* Hide sharp edges pulled in by blur */
+  z-index: 1;
+  filter: blur(40px) brightness(0.4);
+}
+
+/* Main sharp video - centered medium box */
+.curtain-video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  max-width: 100vw;
+  max-height: 100vh;
+  width: auto;
+  height: auto;
+  transform: translateX(-50%) translateY(-50%);
+  object-fit: contain;
+  z-index: 10000;
+}
+
+.curtain-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.15);
+  z-index: 10001;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 4rem;
+}
+
+.curtain-content {
+  text-align: center;
+  color: white;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.modern-prompt-text {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  font-size: clamp(0.95rem, 3.5vw, 1.2rem);
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  color: rgba(255, 255, 255, 0.95);
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px 20px;
+  border-radius: 50px;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  animation: modernPulse 2.5s infinite ease-in-out;
+  margin: 1.5rem auto;
+  max-width: 85vw;
+}
+
+@keyframes modernPulse {
+  0% { transform: scale(1); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); border-color: rgba(255, 255, 255, 0.15); }
+  50% { transform: scale(1.03); box-shadow: 0 8px 32px rgba(212, 175, 55, 0.3); border-color: rgba(212, 175, 55, 0.4); }
+  100% { transform: scale(1); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3); border-color: rgba(255, 255, 255, 0.15); }
+}

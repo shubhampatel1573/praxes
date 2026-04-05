@@ -1,0 +1,1 @@
+Please place the QR code images provided in the chat into this directory with the following exact filenames to show up in the form:\n\n1. qr-pratham.jpg (for PRATHAM PARMAR)\n2. qr-harsh.jpg (for Harsh Nai)\n3. qr-shubham.jpg (for Shubham Patel)

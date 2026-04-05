@@ -1,0 +1,103 @@
+Extracting C:\Users\MICRO-26\Desktop\praxes2k26-main\public\Students Event coordinator List final-1.xlsx
+--- Sheet: Table 1 ---
+Sr.No | Event Name | Students  Coordinator
+1 | Overall co-ordinators Praxes 2k26 | Poojan Patel
+ |  | Sweni Patel
+ |  | Ravin Purohit
+ |  | Bakul Parmar
+ |  | Sanjay Modi
+ |  | Hitesh Rabari
+2 | Robotics | Rudra Patel
+ |  | Pradeep Chaudhary
+ |  | Dax Padasala
+ |  | Hiren Ajakiya
+3 | Constructo | Bhumika Prajapati
+ |  | Nilesh Gelot
+ |  | Hardik Prajapati
+4 | Quiz-O-Tech. | Dhruvi Patel
+ |  | Anju Paregi
+ |  | Talha Manashia
+ |  | Pratik Prajapati
+5 | CADveture(2D,3D,
+Design) | Rahul Chaudhary
+6 | Coding | Pragat Patel
+ |  | Tarni Patel
+7 | PCB Master | Payal Chamachiya
+ |  | Divyang Patel
+8 | Rangoli | Preeti Chaudhari
+ |  | Shaili Patel
+9 | E-sport | Nehang Patel
+ |  | Gopalsinh Solanki
+ |  | Ved Patel
+ |  | Shivam Shing
+10 | Treasure Hunt | Jay Patel
+ |  | Savan Patel
+ |  | Aditya Devdatt
+ |  | Bhavya Patel
+ |  | Jil Patel
+11 | Exhibition | Utsav Bhalala
+ |  | Ankit khumawat
+ |  | Arpit Chodhary
+12 | Short film (Documentary) & Social media (Reels on Clg) | Tirth Patel
+ |  | Chetan Thakor
+ |  | Ashokji Solanki
+13 | Debate | Raghu Prajapati
+ |  | Mihir Raval
+ |  | Prerak Barot
+14 | Story on Pic | Shivam Panchal
+ |  | Divyansh Jadhav
+15 | Cooking and salad decoration | Vishakha Modi
+ |  | Vishwa Varde
+16 | Art | Zainika Chaudhary
+ |  | Zeel Patel
+ |  | Isha Chaudhary
+ |  | Jiya Joshi
+ |  | Shruti Rathod
+ |  | Charvi Patel
+ |  | Mahek Patil
+ |  | Nikita Chaudhary
+ |  | Manisha Darji
+ |  | Jiya Prajapati
+ |  | Saloni Prajapati
+ |  | Janvi Chaudhary
+17 | Photography | Rani Chauhan
+18 | Laser maze | Vasudev Shaini
+ |  | Kuldeep Chauhan
+19 | Darts (Target) | Nidhi Shiyal
+ |  | Abhijit Chauhan
+ |  | Vandit Prajapati
+ |  | Pranjal Chaudhary
+20 | Talent Show | Bansi Chavda
+ |  | Vaishnav Tandel
+ |  | Umangi Patel
+ |  | Nikul Prajapati
+21 | Mind Marathon | Yahraj Vaishnav
+ |  | Mayur Vagda
+ |  | Raj Patel
+ |  | Krishana Tank
+ |  | Sonal Chudhary
+22 | Tower of hanoi | Mahimn Joshi
+ |  | Jenil Kotadiya
+23 | Rubik's cube | Het Patel
+ |  | Dax Mane
+ |  | Adarsh Shukla
+24 | Stability of Hand | Neha Khatri
+ |  | Havra Anandwala
+25 | Poster presentation | Chirag Hadiyal
+ |  | Khushi Prajapati
+26 | Writing | Ami Prajapati
+ |  | Saloni Prajapati
+27 | AI Prompt Battle | Naresh Chaudhary
+ |  | Nihar Vaghela
+ |  | Vishva Yadav
+ |  | Akshit Suvagiya
+28 | Fun Games | Himanshu Nai
+ |  | Rivanshi Darji
+ |  | Yash Thakkar
+ |  | Bhoomi Sadhu
+ |  | Hardik Prajapati
+ |  | Kuldip Parmar
+ |  | Devansh Prajapati
+ |  | Smit Vaghela
+ |  | Man Patel
+ |  | Tejashvi davda

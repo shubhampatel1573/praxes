@@ -1,0 +1,502 @@
+[
+  [
+    "Sr.No",
+    "Event Name",
+    "Students  Coordinator"
+  ],
+  [
+    1,
+    "Overall co-ordinators Praxes 2k26",
+    "Poojan Patel"
+  ],
+  [
+    null,
+    null,
+    "Sweni Patel"
+  ],
+  [
+    null,
+    null,
+    "Ravin Purohit"
+  ],
+  [
+    null,
+    null,
+    "Bakul Parmar"
+  ],
+  [
+    null,
+    null,
+    "Sanjay Modi"
+  ],
+  [
+    null,
+    null,
+    "Hitesh Rabari"
+  ],
+  [
+    2,
+    "Robotics",
+    "Rudra Patel"
+  ],
+  [
+    null,
+    null,
+    "Pradeep Chaudhary"
+  ],
+  [
+    null,
+    null,
+    "Dax Padasala"
+  ],
+  [
+    null,
+    null,
+    "Hiren Ajakiya"
+  ],
+  [
+    3,
+    "Constructo",
+    "Bhumika Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Nilesh Gelot"
+  ],
+  [
+    null,
+    null,
+    "Hardik Prajapati"
+  ],
+  [
+    4,
+    "Quiz-O-Tech.",
+    "Dhruvi Patel"
+  ],
+  [
+    null,
+    null,
+    "Anju Paregi"
+  ],
+  [
+    null,
+    null,
+    "Talha Manashia"
+  ],
+  [
+    null,
+    null,
+    "Pratik Prajapati"
+  ],
+  [
+    5,
+    "CADveture(2D,3D,\r\nDesign)",
+    "Rahul Chaudhary"
+  ],
+  [
+    6,
+    "Coding",
+    "Pragat Patel"
+  ],
+  [
+    null,
+    null,
+    "Tarni Patel"
+  ],
+  [
+    7,
+    "PCB Master",
+    "Payal Chamachiya"
+  ],
+  [
+    null,
+    null,
+    "Divyang Patel"
+  ],
+  [
+    8,
+    "Rangoli",
+    "Preeti Chaudhari"
+  ],
+  [
+    null,
+    null,
+    "Shaili Patel"
+  ],
+  [
+    9,
+    "E-sport",
+    "Nehang Patel"
+  ],
+  [
+    null,
+    null,
+    "Gopalsinh Solanki"
+  ],
+  [
+    null,
+    null,
+    "Ved Patel"
+  ],
+  [
+    null,
+    null,
+    "Shivam Shing"
+  ],
+  [
+    10,
+    "Treasure Hunt",
+    "Jay Patel"
+  ],
+  [
+    null,
+    null,
+    "Savan Patel"
+  ],
+  [
+    null,
+    null,
+    "Aditya Devdatt"
+  ],
+  [
+    null,
+    null,
+    "Bhavya Patel"
+  ],
+  [
+    null,
+    null,
+    "Jil Patel"
+  ],
+  [
+    11,
+    "Exhibition",
+    "Utsav Bhalala"
+  ],
+  [
+    null,
+    null,
+    "Ankit khumawat"
+  ],
+  [
+    null,
+    null,
+    "Arpit Chodhary"
+  ],
+  [
+    12,
+    "Short film (Documentary) & Social media (Reels on Clg)",
+    "Tirth Patel"
+  ],
+  [
+    null,
+    null,
+    "Chetan Thakor"
+  ],
+  [
+    null,
+    null,
+    "Ashokji Solanki"
+  ],
+  [
+    13,
+    "Debate",
+    "Raghu Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Mihir Raval"
+  ],
+  [
+    null,
+    null,
+    "Prerak Barot"
+  ],
+  [
+    14,
+    "Story on Pic",
+    "Shivam Panchal"
+  ],
+  [
+    null,
+    null,
+    "Divyansh Jadhav"
+  ],
+  [
+    15,
+    "Cooking and salad decoration",
+    "Vishakha Modi"
+  ],
+  [
+    null,
+    null,
+    "Vishwa Varde"
+  ],
+  [
+    16,
+    "Art",
+    "Zainika Chaudhary"
+  ],
+  [
+    null,
+    null,
+    "Zeel Patel"
+  ],
+  [
+    null,
+    null,
+    "Isha Chaudhary"
+  ],
+  [
+    null,
+    null,
+    "Jiya Joshi"
+  ],
+  [
+    null,
+    null,
+    "Shruti Rathod"
+  ],
+  [
+    null,
+    null,
+    "Charvi Patel"
+  ],
+  [
+    null,
+    null,
+    "Mahek Patil"
+  ],
+  [
+    null,
+    null,
+    "Nikita Chaudhary"
+  ],
+  [
+    null,
+    null,
+    "Manisha Darji"
+  ],
+  [
+    null,
+    null,
+    "Jiya Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Saloni Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Janvi Chaudhary"
+  ],
+  [
+    17,
+    "Photography",
+    "Rani Chauhan"
+  ],
+  [
+    18,
+    "Laser maze",
+    "Vasudev Shaini"
+  ],
+  [
+    null,
+    null,
+    "Kuldeep Chauhan"
+  ],
+  [
+    19,
+    "Darts (Target)",
+    "Nidhi Shiyal"
+  ],
+  [
+    null,
+    null,
+    "Abhijit Chauhan"
+  ],
+  [
+    null,
+    null,
+    "Vandit Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Pranjal Chaudhary"
+  ],
+  [
+    20,
+    "Talent Show",
+    "Bansi Chavda"
+  ],
+  [
+    null,
+    null,
+    "Vaishnav Tandel"
+  ],
+  [
+    null,
+    null,
+    "Umangi Patel"
+  ],
+  [
+    null,
+    null,
+    "Nikul Prajapati"
+  ],
+  [
+    21,
+    "Mind Marathon",
+    "Yahraj Vaishnav"
+  ],
+  [
+    null,
+    null,
+    "Mayur Vagda"
+  ],
+  [
+    null,
+    null,
+    "Raj Patel"
+  ],
+  [
+    null,
+    null,
+    "Krishana Tank"
+  ],
+  [
+    null,
+    null,
+    "Sonal Chudhary"
+  ],
+  [
+    22,
+    "Tower of hanoi",
+    "Mahimn Joshi"
+  ],
+  [
+    null,
+    null,
+    "Jenil Kotadiya"
+  ],
+  [
+    23,
+    "Rubik's cube",
+    "Het Patel"
+  ],
+  [
+    null,
+    null,
+    "Dax Mane"
+  ],
+  [
+    null,
+    null,
+    "Adarsh Shukla"
+  ],
+  [
+    24,
+    "Stability of Hand",
+    "Neha Khatri"
+  ],
+  [
+    null,
+    null,
+    "Havra Anandwala"
+  ],
+  [
+    25,
+    "Poster presentation",
+    "Chirag Hadiyal"
+  ],
+  [
+    null,
+    null,
+    "Khushi Prajapati"
+  ],
+  [
+    26,
+    "Writing",
+    "Ami Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Saloni Prajapati"
+  ],
+  [
+    27,
+    "AI Prompt Battle",
+    "Naresh Chaudhary"
+  ],
+  [
+    null,
+    null,
+    "Nihar Vaghela"
+  ],
+  [
+    null,
+    null,
+    "Vishva Yadav"
+  ],
+  [
+    null,
+    null,
+    "Akshit Suvagiya"
+  ],
+  [
+    28,
+    "Fun Games",
+    "Himanshu Nai"
+  ],
+  [
+    null,
+    null,
+    "Rivanshi Darji"
+  ],
+  [
+    null,
+    null,
+    "Yash Thakkar"
+  ],
+  [
+    null,
+    null,
+    "Bhoomi Sadhu"
+  ],
+  [
+    null,
+    null,
+    "Hardik Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Kuldip Parmar"
+  ],
+  [
+    null,
+    null,
+    "Devansh Prajapati"
+  ],
+  [
+    null,
+    null,
+    "Smit Vaghela"
+  ],
+  [
+    null,
+    null,
+    "Man Patel"
+  ],
+  [
+    null,
+    null,
+    "Tejashvi davda"
+  ]
+]
