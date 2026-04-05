@@ -107,37 +107,6 @@ const DEFAULT_EVENTS = [
 
   // ===== TECHNICAL EVENTS =====
   { 
-    id: 'constructo', 
-    name: 'Constructo', 
-    fee: 70, 
-    limit: '1 Member', 
-    desc: 'Build creative structures using limited materials.', 
-    iconName: 'Building',
-    fullDescription: 'Put your engineering and creative skills to the test! Teams will be given limited materials to build structures that are judged on strength, creativity, and aesthetics. A true test of innovation and teamwork.',
-    rules: [
-      '1 Popsicle sticks',
-      '2 Paper',
-      '3 Glue ● Dimensions:',
-      '• Maximum',
-      '1 Length - 12 cm',
-      '2 Width - 12 cm',
-      '3 Height – 40 cm',
-      '• Minimum',
-      '1 Length – 10cm',
-      '2 Width - 10 cm',
-      '3 Height - 30cm The Competition :',
-      '1 Reporting of the participating team should be 15 minutes before the start of the event',
-      '2 Maximum 3 members in a team will be allowed',
-      '3 Teams will be given 2 hours for construction of the tower using the material provided on the day of the event',
-      '4 No outside material will be allowed to be used during the time of the event'
-    ],
-    venue: 'GEC PALANPUR',
-    date: 'April 8-9, 2026',
-    time: '10 AM Onward',
-    prize: 'TBA',
-    coordinators: [{ name: 'Bhumika Prajapati', phone: '' }, { name: 'Nilesh Gelot', phone: '9328509383' }, { name: 'Hardik Chaudhary', phone: '9499775348' }]
-  },
-  { 
     id: 'constructo-squad', 
     name: 'Constructo(Squad)', 
     fee: 280, 
@@ -511,8 +480,8 @@ const DEFAULT_EVENTS = [
   { 
     id: 'rangoli', 
     name: 'Rangoli', 
-    fee: 50, 
-    limit: '1 Member', 
+    fee: 100, 
+    limit: '2 Member', 
     desc: 'Create stunning rangoli art with vibrant colors.', 
     iconName: 'Palette',
     fullDescription: 'Unleash your artistic skills by creating beautiful rangoli designs! Use vibrant colors, flowers, and materials to craft mesmerizing patterns. Creativity, neatness, and use of colors will be judged.',
@@ -834,8 +803,8 @@ const DEFAULT_EVENTS = [
   { 
     id: 'cooking', 
     name: 'Cooking', 
-    fee: 150, 
-    limit: '4 Member', 
+    fee: 100, 
+    limit: '2 Member', 
     desc: 'Cook up delicious dishes in this culinary showdown.', 
     iconName: 'ChefHat',
     fullDescription: 'Put on your chef hat and cook up something amazing! Teams will prepare dishes under time constraints. Taste, presentation, creativity, and hygiene will be judged.',
@@ -866,8 +835,8 @@ const DEFAULT_EVENTS = [
   { 
     id: 'treasure-hunt', 
     name: 'Treasure Hunt', 
-    fee: 200, 
-    limit: '4 Member', 
+    fee: 250, 
+    limit: '5 Member', 
     desc: 'Follow clues and find the hidden treasure!', 
     iconName: 'Compass',
     fullDescription: 'An exciting campus-wide treasure hunt! Teams will follow a series of cryptic clues hidden across the campus. The first team to find all clues and reach the treasure wins!',
@@ -1270,7 +1239,7 @@ const DEFAULT_EVENTS = [
   }
 ].sort((a, b) => a.name.localeCompare(b.name));
 
-const EVENTS_VERSION = 5287; // Bump this when DEFAULT_EVENTS structure changes
+const EVENTS_VERSION = 5288; // Bump this when DEFAULT_EVENTS structure changes
 
 export const getEventsList = () => {
   const savedVersion = localStorage.getItem('praxes_events_version');
